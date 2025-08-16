@@ -1,0 +1,18 @@
+{
+  "launcher": {
+    "version": "1.0.0",
+    "exe_url": "https://tonsite.com/builds/Pokemon%20Emergence.exe",
+    "sha256": "d2c1fbd0c878b7a3af7c1e7c07b1dd9df9baf028d4237e15e7bb712ed29cc38f"
+  },
+  "updater": {
+    "version": "1.0.0",
+    "exe_url": "https://tonsite.com/builds/pem_updater.exe",
+    "sha256": "0a5e4f33c9b17491aef292e2368d807d0c70e15a1a04f91e080db72f63e1caa9"
+  },
+  "game": {
+    "version": "1.0.0",
+    "zip_url": "https://tonsite.com/builds/pem_client_0.3.1.zip",
+    "sha256": "ecbb2c3f65cba9c57b54f2184a8d2f6c2a67ad8b4a2cb9e2a7f8b9c3d5b8cbb4"
+  },
+  "notes": "⚡ Première version des composants."
+}
