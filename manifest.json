@@ -1,18 +1,12 @@
 {
   "launcher": {
     "version": "1.0.0",
-    "exe_url": "https://github.com/OriginsLAB/pkmn_emergence/releases/download/pem_lu/Pokemon.Emergence.exe",
-    "sha256": "c09e0ab27d36d05176bbb9d2c4190692074622c220820ddff7a3093e6c2677b3"
-  },
-  "updater": {
-    "version": "1.0.0",
-    "exe_url": "https://github.com/OriginsLAB/pkmn_emergence/releases/download/pem_lu/pem_updater.exe",
-    "sha256": "3f41f52a7c6d1ae7eabfee35b6d43d605a64e865a5cc58e28cd44916d23dbb65"
+    "exe_url": "https://github.com/OriginsLAB/pkmn_emergence/releases/download/pem_storage/Pokemon.Emergence.exe",
+    "sha256": "d65420c106bd8e60b0854e862b5b73061d2f98d80ae7fc11ed0ee30dc21b44c9"
   },
   "game": {
     "version": "1.0.0",
-    "zip_url": "https://github.com/OriginsLAB/pkmn_emergence/releases/download/pem_lu/pem_client_1.0.0.zip",
+    "zip_url": "https://github.com/OriginsLAB/pkmn_emergence/releases/download/pem_storage/pem_client_1.0.0.zip",
     "sha256": "812604d882ba91931a6ce9c21d17d429e6dc67ffa244835072b3e73858b57b62"
-  },
-  "notes": "⚡ Première version des composants."
+  }
 }
