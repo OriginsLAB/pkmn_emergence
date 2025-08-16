@@ -1,13 +1,13 @@
 {
   "launcher": {
     "version": "1.0.0",
-    "exe_url": "https://drive.google.com/uc?export=download&id=1seaqgdUTaFC0cIkh1GFAyO9f9bADVCeZ",
-    "sha256": "d364b3760cdc3f39a9c78a03bde0d18f8f459ebe6c7988cc699155b2a820b0f4"
+    "exe_url": "https://drive.google.com/uc?export=download&id=1_ASi1jgbEEMBSD-SS0Loeu_JvoyTif0r",
+    "sha256": "c09e0ab27d36d05176bbb9d2c4190692074622c220820ddff7a3093e6c2677b3"
   },
   "updater": {
     "version": "1.0.0",
-    "exe_url": "https://drive.google.com/uc?export=download&id=1l6l4lVoQu9qBSPwDPIxPqfGFl5Iedi3z",
-    "sha256": "b9fb54d4aed1582a430404697be4c3038201e0717fee57115e296d0dba3c41d9"
+    "exe_url": "https://drive.google.com/uc?export=download&id=1ryKP3f2dlsws8kbEPOiNmxjfk4zaok5O",
+    "sha256": "3f41f52a7c6d1ae7eabfee35b6d43d605a64e865a5cc58e28cd44916d23dbb65"
   },
   "game": {
     "version": "1.0.0",
