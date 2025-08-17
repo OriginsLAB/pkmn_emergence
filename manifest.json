@@ -2,11 +2,11 @@
   "launcher": {
     "version": "1.0.0",
     "exe_url": "https://github.com/OriginsLAB/pkmn_emergence/releases/download/pem_storage/Pokemon.Emergence.exe",
-    "sha256": "9d299d8c828c05132d7c9e12336bd390bf94ed089727e65d350ce9ae22b0c294"
+    "sha256": "9c29386ef136896dbecdf5cffd5fbd5d59f534cd061e63deb929ba7f9e5813a8"
   },
   "game": {
     "version": "1.0.0",
     "zip_url": "https://github.com/OriginsLAB/pkmn_emergence/releases/download/pem_storage/pem_client_1.0.0.zip",
-    "sha256": "7a342d3e1655f1b40914a518e31f55b5d4e6ed05b8f45722c9896a719c865cc0"
+    "sha256": "a3e12bc9d4af13413b4f0f3ff6ef38c181a250a9363be8cd80dfe764df508780"
   }
 }
